@@ -1,0 +1,30 @@
+!SESSION 2015-12-21 16:08:49.359 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.7.0_80
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data C:\Users\qedge\Desktop\durgabhavaniscripts -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-12-21 16:09:10.217
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\qedge'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2015-12-21 16:12:22.926
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\qedge\Desktop\durgabhavaniscripts\selenium\bin C:\Users\qedge\Downloads\August3BatchPrograms-master\OrangeHRM\lib\selenium-server-standalone-2.47.1.jar C:\Users\qedge\Desktop\eclipse\plugins\org.testng.eclipse_6.9.10.201512120123\lib\testng.jar C:\Users\qedge\Desktop\eclipse\plugins\org.testng.eclipse_6.9.10.201512120123\lib\jcommander.jar C:\Users\qedge\Desktop\eclipse\plugins\org.testng.eclipse_6.9.10.201512120123\lib\bsh-2.0b4.jar C:\Users\qedge\Desktop\eclipse\plugins\org.testng.eclipse_6.9.10.201512120123\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 5455 -d C:\Users\qedge\Desktop\durgabhavaniscripts\selenium\test-output C:\Users\qedge\AppData\Local\Temp\testng-eclipse--1614222064\testng-customsuite.xml
+java -ea -classpath C:\Users\qedge\Desktop\durgabhavaniscripts\selenium\bin:C:\Users\qedge\Downloads\August3BatchPrograms-master\OrangeHRM\lib\selenium-server-standalone-2.47.1.jar:C:\Users\qedge\Desktop\eclipse\plugins\org.testng.eclipse_6.9.10.201512120123\lib\testng.jar:C:\Users\qedge\Desktop\eclipse\plugins\org.testng.eclipse_6.9.10.201512120123\lib\jcommander.jar:C:\Users\qedge\Desktop\eclipse\plugins\org.testng.eclipse_6.9.10.201512120123\lib\bsh-2.0b4.jar:C:\Users\qedge\Desktop\eclipse\plugins\org.testng.eclipse_6.9.10.201512120123\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 5455 -d C:\Users\qedge\Desktop\durgabhavaniscripts\selenium\test-output C:\Users\qedge\AppData\Local\Temp\testng-eclipse--1614222064\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-12-21 16:13:25.176
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\qedge\Desktop\durgabhavaniscripts\selenium\bin C:\Users\qedge\Downloads\August3BatchPrograms-master\OrangeHRM\lib\selenium-server-standalone-2.47.1.jar C:\Users\qedge\Desktop\eclipse\plugins\org.testng.eclipse_6.9.10.201512120123\lib\testng.jar C:\Users\qedge\Desktop\eclipse\plugins\org.testng.eclipse_6.9.10.201512120123\lib\jcommander.jar C:\Users\qedge\Desktop\eclipse\plugins\org.testng.eclipse_6.9.10.201512120123\lib\bsh-2.0b4.jar C:\Users\qedge\Desktop\eclipse\plugins\org.testng.eclipse_6.9.10.201512120123\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 5512 -d C:\Users\qedge\Desktop\durgabhavaniscripts\selenium\test-output C:\Users\qedge\AppData\Local\Temp\testng-eclipse-828625324\testng-customsuite.xml
+java -ea -classpath C:\Users\qedge\Desktop\durgabhavaniscripts\selenium\bin:C:\Users\qedge\Downloads\August3BatchPrograms-master\OrangeHRM\lib\selenium-server-standalone-2.47.1.jar:C:\Users\qedge\Desktop\eclipse\plugins\org.testng.eclipse_6.9.10.201512120123\lib\testng.jar:C:\Users\qedge\Desktop\eclipse\plugins\org.testng.eclipse_6.9.10.201512120123\lib\jcommander.jar:C:\Users\qedge\Desktop\eclipse\plugins\org.testng.eclipse_6.9.10.201512120123\lib\bsh-2.0b4.jar:C:\Users\qedge\Desktop\eclipse\plugins\org.testng.eclipse_6.9.10.201512120123\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 5512 -d C:\Users\qedge\Desktop\durgabhavaniscripts\selenium\test-output C:\Users\qedge\AppData\Local\Temp\testng-eclipse-828625324\testng-customsuite.xml
